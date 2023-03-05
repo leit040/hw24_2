@@ -1,0 +1,8 @@
+//patch
+filePath:/home/leit/logs/
+//INFO:DEBUG
+level:INFO
+//filesize in bytes
+maxFileSize:512
+//"LEVEL,DATA,MESSAGE"
+logFormat:LEVEL,DATA,MESSAGE
