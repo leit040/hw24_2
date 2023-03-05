@@ -1,11 +1,11 @@
-package main.java.ua.hillel;
-
-import java.io.*;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.nio.file.Path;
-import java.time.format.DateTimeFormatter;
+import java.nio.file.Paths;
 import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 
 
 public class FileLogger {
