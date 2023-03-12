@@ -1,3 +1,5 @@
+package ua.hillel;
+
 public class FileLoggerConfiguration {
     private  String filePath;
     private  String level;
